@@ -2,7 +2,7 @@
 
 ### Clone repository
 ```
-$ git clone url
+$ git clone https://github.com/drbarzaga/laravel-stripe-integration.git
 ```
 
 ### Install dependencies

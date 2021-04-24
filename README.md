@@ -21,3 +21,8 @@ Add Stripe keys on the .env file
 STRIPE_KEY = stripe_key_xxxxxxxxxxxxxxxxxxx
 STRIPE_SECRET = stripe_secret_xxxxxxxxxxxxxxxxxxx
 ```
+
+### Run Application
+```
+$ php artisan serve
+```

@@ -26,3 +26,4 @@ STRIPE_SECRET = stripe_secret_xxxxxxxxxxxxxxxxxxx
 ```
 $ php artisan serve
 ```
+Open this address on your browser http://127.0.0.1:8000

@@ -15,7 +15,7 @@ $ composer install
 Copy the .env.example to .env and put here al settings that you need.
 ```
 
-### Setup Strupe
+### Setup Stripe
 Add Stripe keys on the .env file
 ```
 STRIPE_KEY = stripe_key_xxxxxxxxxxxxxxxxxxx
